@@ -8,5 +8,7 @@
 - ⚠️ Attenzione **In caso si voglia utilizzare PyInstaller per convertire l'applicativo da .py in .exe sarà necessario usare questa stringa:**
 **pyinstaller --collect-all CTkColorPicker -F "nomefile.py" --noconsole --onefile --icon="path"**
 
+- ℹ️ Per il corretto funzionamento dell'applicativo scaricare il file "requirements.txt" ed eseguire questo comando: pip install -r requirements.txt
+
 <p align="left">
 </p>
