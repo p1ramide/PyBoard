@@ -8,6 +8,5 @@
 - ⚠️ Attenzione **In caso si voglia utilizzare PyInstaller per convertire l'applicativo da .py in .exe sarà necessario usare questa stringa:
 - **pyinstaller --collect-all CTkColorPicker -F "nomefile.py" --noconsole --onefile --icon="path"**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
