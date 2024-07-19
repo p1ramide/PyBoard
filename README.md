@@ -1,2 +1,13 @@
-# PyBoard
-Questo è un progetto open-source scritto interamente in Python, basato sullo scopo di dimostrare l'efficacia di Python nello sviluppo di applicativi attraverso l'utilizzo di librerie come Tkinter e CustomTkinter.
+<h1 align="center"> PyBoard</h1>
+<h3 align="center">Un progetto open-source scritto interamente in Python, basato sullo scopo di dimostrare l'efficacia di Python nello sviluppo di applicativi attraverso l'utilizzo di librerie come Tkinter e CustomTkinter.</h3>
+
+- ℹ️ Info **Come già citato, il progetto è completamente open-source, il codice può essere restribuito ed utilizzato, anche se in caso di pubblicazione dell'applicativo i crediti verrebbero ben accetti.**
+
+- 🖼️Preview Applicativo <img align="right" alt="Coding" width="400" src="https://imgur.com/a/JtwC5Jy">
+
+- ⚠️ Attenzione **In caso si voglia utilizzare PyInstaller per convertire l'applicativo da .py in .exe sarà necessario usare questa stringa:
+- **pyinstaller --collect-all CTkColorPicker -F "nomefile.py" --noconsole --onefile --icon="path"**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
