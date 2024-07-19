@@ -1,0 +1,4 @@
+Pillow
+CTkMessagebox
+customtkinter
+CTkColorPicker
