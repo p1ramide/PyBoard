@@ -6,7 +6,7 @@
 - 🖼️Preview Applicativo <img align="right" alt="Coding" width="400" src="https://i.imgur.com/t6ucFDC.png">
 
 - ⚠️ Attenzione **In caso si voglia utilizzare PyInstaller per convertire l'applicativo da .py in .exe sarà necessario usare questa stringa:**
-- **pyinstaller --collect-all CTkColorPicker -F "nomefile.py" --noconsole --onefile --icon="path"**
+**pyinstaller --collect-all CTkColorPicker -F "nomefile.py" --noconsole --onefile --icon="path"**
 
 <p align="left">
 </p>
